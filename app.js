@@ -1,5 +1,5 @@
 let tentativa = 1;
-let limite = 10;
+let limite = 20;
 
 function exibirTextoNaTela(tag, conteudo) {
   let campo = document.querySelector(tag);
